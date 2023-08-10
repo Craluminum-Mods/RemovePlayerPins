@@ -1,0 +1,12 @@
+{
+    "type": "code",
+    "side": "universal",
+    "modid": "removeplayerpins",
+    "name": "Remove Player Pins",
+    "description": "Removes players pins from the worldmap and minimap.",
+    "authors": ["Craluminum2413"],
+    "version": "1.0.1",
+    "dependencies": {
+        "game": "1.18.8"
+    }
+}
